@@ -1,0 +1,15 @@
+D:\workspace\CodeChallenge\LivroDeOfertas\bin\Debug\net6.0\LivroDeOfertas.exe
+D:\workspace\CodeChallenge\LivroDeOfertas\bin\Debug\net6.0\LivroDeOfertas.deps.json
+D:\workspace\CodeChallenge\LivroDeOfertas\bin\Debug\net6.0\LivroDeOfertas.runtimeconfig.json
+D:\workspace\CodeChallenge\LivroDeOfertas\bin\Debug\net6.0\LivroDeOfertas.dll
+D:\workspace\CodeChallenge\LivroDeOfertas\bin\Debug\net6.0\LivroDeOfertas.pdb
+D:\workspace\CodeChallenge\LivroDeOfertas\obj\Debug\net6.0\LivroDeOfertas.csproj.AssemblyReference.cache
+D:\workspace\CodeChallenge\LivroDeOfertas\obj\Debug\net6.0\LivroDeOfertas.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\CodeChallenge\LivroDeOfertas\obj\Debug\net6.0\LivroDeOfertas.AssemblyInfoInputs.cache
+D:\workspace\CodeChallenge\LivroDeOfertas\obj\Debug\net6.0\LivroDeOfertas.AssemblyInfo.cs
+D:\workspace\CodeChallenge\LivroDeOfertas\obj\Debug\net6.0\LivroDeOfertas.csproj.CoreCompileInputs.cache
+D:\workspace\CodeChallenge\LivroDeOfertas\obj\Debug\net6.0\LivroDeOfertas.dll
+D:\workspace\CodeChallenge\LivroDeOfertas\obj\Debug\net6.0\refint\LivroDeOfertas.dll
+D:\workspace\CodeChallenge\LivroDeOfertas\obj\Debug\net6.0\LivroDeOfertas.pdb
+D:\workspace\CodeChallenge\LivroDeOfertas\obj\Debug\net6.0\LivroDeOfertas.genruntimeconfig.cache
+D:\workspace\CodeChallenge\LivroDeOfertas\obj\Debug\net6.0\ref\LivroDeOfertas.dll
