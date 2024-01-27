@@ -1,0 +1,15 @@
+D:\workspace\CodeChallenge\CriptografiaNavio\bin\Debug\net6.0\CriptografiaNavio.exe
+D:\workspace\CodeChallenge\CriptografiaNavio\bin\Debug\net6.0\CriptografiaNavio.deps.json
+D:\workspace\CodeChallenge\CriptografiaNavio\bin\Debug\net6.0\CriptografiaNavio.runtimeconfig.json
+D:\workspace\CodeChallenge\CriptografiaNavio\bin\Debug\net6.0\CriptografiaNavio.dll
+D:\workspace\CodeChallenge\CriptografiaNavio\bin\Debug\net6.0\CriptografiaNavio.pdb
+D:\workspace\CodeChallenge\CriptografiaNavio\obj\Debug\net6.0\CriptografiaNavio.csproj.AssemblyReference.cache
+D:\workspace\CodeChallenge\CriptografiaNavio\obj\Debug\net6.0\CriptografiaNavio.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\CodeChallenge\CriptografiaNavio\obj\Debug\net6.0\CriptografiaNavio.AssemblyInfoInputs.cache
+D:\workspace\CodeChallenge\CriptografiaNavio\obj\Debug\net6.0\CriptografiaNavio.AssemblyInfo.cs
+D:\workspace\CodeChallenge\CriptografiaNavio\obj\Debug\net6.0\CriptografiaNavio.csproj.CoreCompileInputs.cache
+D:\workspace\CodeChallenge\CriptografiaNavio\obj\Debug\net6.0\CriptografiaNavio.dll
+D:\workspace\CodeChallenge\CriptografiaNavio\obj\Debug\net6.0\refint\CriptografiaNavio.dll
+D:\workspace\CodeChallenge\CriptografiaNavio\obj\Debug\net6.0\CriptografiaNavio.pdb
+D:\workspace\CodeChallenge\CriptografiaNavio\obj\Debug\net6.0\CriptografiaNavio.genruntimeconfig.cache
+D:\workspace\CodeChallenge\CriptografiaNavio\obj\Debug\net6.0\ref\CriptografiaNavio.dll
