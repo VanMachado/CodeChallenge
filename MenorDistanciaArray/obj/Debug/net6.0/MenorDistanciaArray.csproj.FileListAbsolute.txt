@@ -1,0 +1,15 @@
+D:\workspace\CodeChallenge\MenorDistanciaArray\bin\Debug\net6.0\MenorDistanciaArray.exe
+D:\workspace\CodeChallenge\MenorDistanciaArray\bin\Debug\net6.0\MenorDistanciaArray.deps.json
+D:\workspace\CodeChallenge\MenorDistanciaArray\bin\Debug\net6.0\MenorDistanciaArray.runtimeconfig.json
+D:\workspace\CodeChallenge\MenorDistanciaArray\bin\Debug\net6.0\MenorDistanciaArray.dll
+D:\workspace\CodeChallenge\MenorDistanciaArray\bin\Debug\net6.0\MenorDistanciaArray.pdb
+D:\workspace\CodeChallenge\MenorDistanciaArray\obj\Debug\net6.0\MenorDistanciaArray.csproj.AssemblyReference.cache
+D:\workspace\CodeChallenge\MenorDistanciaArray\obj\Debug\net6.0\MenorDistanciaArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\CodeChallenge\MenorDistanciaArray\obj\Debug\net6.0\MenorDistanciaArray.AssemblyInfoInputs.cache
+D:\workspace\CodeChallenge\MenorDistanciaArray\obj\Debug\net6.0\MenorDistanciaArray.AssemblyInfo.cs
+D:\workspace\CodeChallenge\MenorDistanciaArray\obj\Debug\net6.0\MenorDistanciaArray.csproj.CoreCompileInputs.cache
+D:\workspace\CodeChallenge\MenorDistanciaArray\obj\Debug\net6.0\MenorDistanciaArray.dll
+D:\workspace\CodeChallenge\MenorDistanciaArray\obj\Debug\net6.0\refint\MenorDistanciaArray.dll
+D:\workspace\CodeChallenge\MenorDistanciaArray\obj\Debug\net6.0\MenorDistanciaArray.pdb
+D:\workspace\CodeChallenge\MenorDistanciaArray\obj\Debug\net6.0\MenorDistanciaArray.genruntimeconfig.cache
+D:\workspace\CodeChallenge\MenorDistanciaArray\obj\Debug\net6.0\ref\MenorDistanciaArray.dll
